@@ -174,7 +174,7 @@ This repo is licensed under the [MIT License](LICENSE).
 | More robots coming soon ! |
 | 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
 | 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
-| 20 | RoboTera L7 `robotera_l7`  | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | TBD | TBD | TBD |
+| 20 | RobotEra L7 `robotera_l7`  | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | TBD | TBD | TBD |
 
 
 
