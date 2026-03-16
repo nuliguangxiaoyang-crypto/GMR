@@ -140,8 +140,8 @@ This repo is licensed under the [MIT License](LICENSE).
     </td>
     <td align="center">
       <b>Demo 15</b><br>
-      (Optional placeholder if you add a new one later!)<br>
-      <i>Coming soon...</i>
+      RoboTera L7 walking.<br>
+      <video src="https://github.com/user-attachments/assets/8de5c3e3-c2a4-4382-80e9-d66e9620affd" width="200" controls></video>
     </td>
   </tr>
 </table>
@@ -174,7 +174,7 @@ This repo is licensed under the [MIT License](LICENSE).
 | More robots coming soon ! |
 | 18 | AgiBot A2 `agibot_a2` | TBD | TBD | TBD | TBD | TBD |
 | 19 | OpenLoong `openloong` | TBD | TBD | TBD | TBD | TBD |
-
+| 20 | RoboTera L7 `robotera_l7`  | Leg (2\*6) + Waist (3) + Arm (2\*7) = 29 | ✅ | ✅ | TBD | TBD | TBD |
 
 
 
