@@ -140,7 +140,7 @@ This repo is licensed under the [MIT License](LICENSE).
     </td>
     <td align="center">
       <b>Demo 15</b><br>
-      RoboTera L7 walking.<br>
+      RobotEra L7 walking.<br>
       <video src="https://github.com/user-attachments/assets/8de5c3e3-c2a4-4382-80e9-d66e9620affd" width="200" controls></video>
     </td>
   </tr>
