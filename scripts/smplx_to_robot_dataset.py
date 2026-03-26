@@ -144,7 +144,7 @@ def process_file(smplx_file_path, tgt_file_path, tgt_robot, SMPLX_FOLDER, tgt_fo
     os.makedirs(os.path.dirname(tgt_file_path), exist_ok=True)
     with open(tgt_file_path, "wb") as f:
         pickle.dump(motion_data, f)
-
+        
     # Progress print based on tgt_folder
     done = 0
     for root, _, files in os.walk(tgt_folder):
